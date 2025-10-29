@@ -1,0 +1,10 @@
+transformers>=4.30
+datasets
+sentencepiece
+scikit-learn
+numpy
+pandas
+tqdm
+accelerate
+evaluate
+backoff
